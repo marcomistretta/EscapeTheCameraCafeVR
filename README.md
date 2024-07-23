@@ -35,10 +35,6 @@ Objects in the game can be moved and interacted with using various mechanisms, i
 
 The game includes detailed sound effects and visual effects to enhance the immersive experience. Audio triggers are managed through C# scripts, and lighting is carefully crafted for both office and tutorial scenes.
 
-### Conclusion 🏁
-
-Developing **Escape the Camera Cafe VR** provided valuable insights into 3D and VR game development. The project was challenging but rewarding, with many lessons learned about event triggering and object interaction.
-
 ## Future Work 🚀
 
 - **New Levels:** Create new levels with trickier puzzles.
